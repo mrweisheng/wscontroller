@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WSController</string>
+    <string name="accessibility_service_description">允许应用通过下拉系统设置面板来切换网络状态</string>
 </resources>
